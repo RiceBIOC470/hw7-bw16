@@ -1,4 +1,14 @@
 %HW7
+%GB comments
+1a 90 mentioning that the stable point at 1 is the carrying capacity of the population. Saying it stops once it reaches the limit is not accurate. It slows down and/or will be corrected (if values exceed 1) as the population converges towards 1. 
+1b. 40 There is no explanation in how A could be impacting the system. It does NOT affect the stable points but it does affect how quickly the system is corrected towards the stable points. 
+1c.  100
+1d. 40 Graph is not correct and there is no explanation of your results 
+2a 0 This is wrong. This is correct [V/(1+x(2)^4)-x(1); V/(1+x(1)^4)-x(2)];
+2b. 30 so many issues with your line of code. you don’t define A and B in either graph output and inputs are not correctly entered as a scalar or character. 
+2c 95 ‘b’ should be iterated over a larger range to produce the graph
+overall: 56
+
 
 % Problem 1: Modeling population growth
 % The simplest model for a growing population assumes that each current
